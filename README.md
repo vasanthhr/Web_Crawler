@@ -15,9 +15,9 @@ The code has been written in python 3.5
 
 
 
-Purpose:: All these code for educating, Research & Development , and innovative process.
+# Purpose:: All these code for Educating, Research & Development , and Innovative process.
 
 
-Please reach me::
+# Please reach me::
 
-if you feel to support on my innovative solutions/products on Machine-Learning/Artificial-Intelligence, Bloack-Chain, Mobile and Micro-Apps 
+if you feel to support on my innovative solutions/products on Machine-Learning/Artificial-Intelligence, Block-Chain, Mobile and Micro-Apps 
