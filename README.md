@@ -7,7 +7,7 @@ Web Crawler Application to search all sources/codes inside webpages or web links
 
 The code has been written in python 3.5
 
-1. It shows how to make wec request to any webpage or webcontent
+1. It shows how to make web request to any webpage or webcontent
 
 2. Process the source code or content of this webpage
 
@@ -20,4 +20,4 @@ Purpose:: All these code for educating, Research & Development , and innovative 
 
 Please reach me::
 
-if you feel to support on my innovative solutions/products on Machine-Learning/Artificial-Intelligence, Bloack-Chai, Mobile and Micro-Apps 
+if you feel to support on my innovative solutions/products on Machine-Learning/Artificial-Intelligence, Bloack-Chain, Mobile and Micro-Apps 
