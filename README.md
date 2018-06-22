@@ -19,4 +19,5 @@ Purpose:: All these code for educating, Research & Development , and innovative 
 
 
 Please reach me::
+
 if you feel to support on my innovative solutions/products on Machine-Learning/Artificial-Intelligence, Bloack-Chai, Mobile and Micro-Apps 
